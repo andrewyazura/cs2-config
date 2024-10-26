@@ -1,5 +1,9 @@
 # CS2 Config
 
+```bash
+cp autoexec.cfg ~/.local/share/Steam/steamapps/common/Counter-Strike\ Global\ Offensive/game/csgo/cfg/autoexec.cfg
+```
+
 ## launch options
 
 ```
