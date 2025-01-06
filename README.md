@@ -1,5 +1,7 @@
 # CS2 Config
 
+> replaced by [nixos-config](https://github.com/andrewyazura/nix-config)
+
 ```bash
 cp autoexec.cfg ~/.local/share/Steam/steamapps/common/Counter-Strike\ Global\ Offensive/game/csgo/cfg/autoexec.cfg
 ```
